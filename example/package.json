@@ -5,9 +5,9 @@
   "dependencies": {
     "dagre": "^0.8.5",
     "localforage": "^1.9.0",
-    "react": "file:../node_modules/react",
-    "react-dom": "file:../node_modules/react-dom",
-    "react-flow-renderer": "file:../",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-flow-renderer": "^9.6.6",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "typescript": "^4.3.4"
